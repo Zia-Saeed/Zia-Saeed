@@ -1,86 +1,109 @@
-<h1 align="center">Hi 👋, I'm Zia Saeed</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure & DevSecOps Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zia-saeed-824680256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zia.aseh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://d66g37t3x22mn.cloudfront.net" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=220&section=header&text=Zia%20Saeed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20DevSecOps%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">📍 Lahore, Punjab, Pakistan</p>
+<a href="https://www.linkedin.com/in/zia-saeed-824680256" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zia.aseh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://d66g37t3x22mn.cloudfront.net" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+<a href="https://github.com/Zia-Saeed" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=650&lines=Building+production-grade+cloud+platforms+on+AWS;Infrastructure+as+Code+with+Terraform;Zero-downtime+deployments+%26+99.9%25+uptime;DevSecOps%3A+Security+Hub+%C2%B7+GuardDuty+%C2%B7+SonarQube+%C2%B7+Trivy;Multi-cloud%3A+AWS+%C2%B7+Alibaba+Cloud" alt="Typing SVG" />
+
+📍 Lahore, Punjab, Pakistan
+
+</div>
+
+<br/>
+
+## 🚀 About Me
 
 I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraform**, and containerized microservices on **Amazon ECS**. I build production platforms end to end — Infrastructure as Code, CI/CD automation, multi-account security governance, observability, and cost optimization.
 
-- 🔭 Currently working as a **DevOps Consultant @ Inovaqo**
-- 💰 Cut cloud spend by **50%** through right-sizing and lifecycle optimization
-- 🛡️ Sustained **99.9% uptime** across production environments
-- 🌍 Led a **zero-data-loss** live production region migration during a datacenter outage
-- ☁️ Led a full production migration from **Alibaba Cloud → AWS** with minimal downtime
-- 🤖 Deployed and fine-tuned a production **ML model** on AWS GPU instances
-- 🔐 Hands-on DevSecOps with AWS Security Hub, GuardDuty, SonarQube, and Trivy
-- 🌐 Multi-cloud experience across **AWS** and **Alibaba Cloud**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔭 Currently working as a **DevOps Consultant @ Inovaqo**
+💰 Cut cloud spend by **50%** through right-sizing & lifecycle optimization
+🛡️ Sustained **99.9% uptime** across production environments
+🌍 Led a **zero-data-loss** region migration during a datacenter outage
+
+</td>
+<td width="50%" valign="top">
+
+☁️ Led a full production migration from **Alibaba Cloud → AWS**
+🤖 Deployed & fine-tuned a production **ML model** on AWS GPU instances
+🔐 Hands-on DevSecOps with Security Hub, GuardDuty, SonarQube, Trivy
+🌐 Multi-cloud experience across **AWS** and **Alibaba Cloud**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Tech%20Stack&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
+
+**☁️ Cloud & IaC**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+
+**📦 Containers & Orchestration**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="30"/>
+
+**🔁 CI/CD & GitOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="30"/>
+
+**🔐 Security & DevSecOps**
+<br/>
+<img src="https://img.shields.io/badge/Security_Hub-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/GuardDuty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" height="30"/>
+
+**📊 Monitoring & Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white" height="30"/>
+
+**🗄️ Databases & Caching**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mariadb&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Aurora_Serverless-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+
+**⚙️ Scripting & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,nginx,git&theme=dark" height="45"/>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Cloud & IaC**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
-
-**CI/CD & GitOps**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-**Security & DevSecOps**
-![Security Hub](https://img.shields.io/badge/AWS_Security_Hub-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-
-**Monitoring & Observability**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
-
-**Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Aurora](https://img.shields.io/badge/Aurora_Serverless-527FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Valkey_/_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Scripting & Platforms**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 💼 Experience
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Experience&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
+</div>
 
 **DevOps Consultant — Inovaqo**
 *Lahore, Pakistan (On-Site) | 01/2026 – Present*
@@ -103,31 +126,48 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 
 ---
 
-### 🌟 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Featured%20Projects&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
+</div>
 
 | Project | Description | Tech |
 |---|---|---|
-| **Alibaba Cloud → AWS Migration** | End-to-end production migration with zero data loss and minimal downtime | AWS (VPC, ECS, ALB, RDS, S3, CloudWatch, IAM, Lambda, SQS), Terraform |
-| **[jobsshopper.com](https://jobsshopper.com)** | Full-stack job board on ECS Fargate, RDS Aurora Serverless, and Valkey caching | Django, React, Docker, Terraform, AWS |
-| **Cortality — AI Backend** | Cost-effective, highly available infrastructure for a production AI backend | AWS ECS, ALB, VPC subnet segmentation, ACM |
-| **Three-Tier App on EKS** | Kubernetes deployment with persistent storage and full monitoring | Amazon EKS, Prometheus, Grafana, IAM |
-| **HatiCare** | On-premise client infrastructure for a Django + PostgreSQL backend | Docker Compose, Nginx |
+| ☁️ **Alibaba Cloud → AWS Migration** | End-to-end production migration with zero data loss and minimal downtime | AWS (VPC, ECS, ALB, RDS, S3, CloudWatch, IAM, Lambda, SQS), Terraform |
+| 💼 **[jobsshopper.com](https://jobsshopper.com)** | Full-stack job board on ECS Fargate, RDS Aurora Serverless, and Valkey caching | Django, React, Docker, Terraform, AWS |
+| 🤖 **Cortality — AI Backend** | Cost-effective, highly available infrastructure for a production AI backend | AWS ECS, ALB, VPC subnet segmentation, ACM |
+| ⚓ **Three-Tier App on EKS** | Kubernetes deployment with persistent storage and full monitoring | Amazon EKS, Prometheus, Grafana, IAM |
+| 🏥 **HatiCare** | On-premise client infrastructure for a Django + PostgreSQL backend | Docker Compose, Nginx |
 
 ---
 
-### 🎓 Education & Certifications
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=GitHub%20Stats&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zia-Saeed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zia-Saeed&theme=react&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zia-Saeed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=c9d1d9" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Education%20%26%20Certifications&fontSize=28&fontColor=FF9900&fontAlignY=65" width="100%"/>
+</div>
 
 - 🎓 **BS in Information Technology** — Bahauddin Zakariya University, Multan, Pakistan (2020 – 2024)
 - 📜 AWS Cloud Computing 101 — Amazon Web Services
 - 📜 Python 100 Days Bootcamp — Udemy
 
----
+<br/>
 
-### 📫 Let's Connect
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zia-saeed-824680256" target="_blank">LinkedIn</a> •
-  <a href="mailto:zia.aseh@gmail.com">Email</a> •
-  <a href="https://d66g37t3x22mn.cloudfront.net" target="_blank">Portfolio</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=150&section=footer&text=Let's%20Build%20Something%20Reliable&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<a href="https://www.linkedin.com/in/zia-saeed-824680256" target="_blank"><b>LinkedIn</b></a> •
+<a href="mailto:zia.aseh@gmail.com"><b>Email</b></a> •
+<a href="https://d66g37t3x22mn.cloudfront.net" target="_blank"><b>Portfolio</b></a>
+
+</div>
