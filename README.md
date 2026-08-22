@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=220&section=header&text=Zia%20Saeed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20DevSecOps%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+# 👋 Hi, I'm Zia Saeed
+
+### DevOps Engineer | Cloud Infrastructure & DevSecOps Specialist
 
 <a href="https://www.linkedin.com/in/zia-saeed-824680256" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -54,7 +56,7 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Tech%20Stack&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
+## 🛠️ Tech Stack
 
 **☁️ Cloud & IaC**
 <br/>
@@ -101,9 +103,7 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Experience&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
-</div>
+## 💼 Experience
 
 **DevOps Consultant — Inovaqo**
 *Lahore, Pakistan (On-Site) | 01/2026 – Present*
@@ -126,9 +126,7 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Featured%20Projects&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
-</div>
+## 🌟 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -141,7 +139,8 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=GitHub%20Stats&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
+
+## 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zia-Saeed&theme=react&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" height="165"/>
 
@@ -155,9 +154,7 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Education%20%26%20Certifications&fontSize=28&fontColor=FF9900&fontAlignY=65" width="100%"/>
-</div>
+## 🎓 Education & Certifications
 
 - 🎓 **BS in Information Technology** — Bahauddin Zakariya University, Multan, Pakistan (2020 – 2024)
 - 📜 AWS Cloud Computing 101 — Amazon Web Services
@@ -167,7 +164,9 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=150&section=footer&text=Let's%20Build%20Something%20Reliable&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
+
+### 🤝 Let's Build Something Reliable
 
 <a href="https://www.linkedin.com/in/zia-saeed-824680256" target="_blank"><b>LinkedIn</b></a> •
 <a href="mailto:zia.aseh@gmail.com"><b>Email</b></a> •
