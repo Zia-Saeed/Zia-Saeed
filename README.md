@@ -143,10 +143,13 @@ I'm a DevOps and Cloud Infrastructure Engineer specializing in **AWS**, **Terraf
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=GitHub%20Stats&fontSize=32&fontColor=FF9900&fontAlignY=65" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zia-Saeed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zia-Saeed&theme=react&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zia-Saeed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=c9d1d9" height="165"/>
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Zia-Saeed?style=for-the-badge&color=FF9900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FF9900&labelColor=0D1117&label=Repos&query=public_repos&url=https://api.github.com/users/Zia-Saeed" />
+<img src="https://img.shields.io/github/stars/Zia-Saeed?style=for-the-badge&color=FF9900&labelColor=0D1117&label=Stars" />
 
 </div>
 
